@@ -6,7 +6,7 @@
 * python2 shafin.py
 
 
-<img src="Screenshot_20220204-012134.png" width="250" height="200"></img>
+<img src="Screenshot_20220204-012134.png" width="220" height="400"></img>
 
 * Tnx all ❣️
 * Assalamaualaikum
